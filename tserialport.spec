@@ -6,7 +6,7 @@ Name:          tserialport
 Summary:       tcl package for for library libserialport
 Version:       1.1
 Release:       0
-License:       BSD 3-Clause License
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        tserialport1.1.tar.gz
 URL:           https://sourceforge.net/projects/tclsnippets/
